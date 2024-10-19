@@ -1,6 +1,6 @@
 # 6D Pose Estimation Study
 
-![6dposebackground](https://github.com/user-attachments/assets/41d1f23d-f878-4563-b33d-88a8c93d29bd)
+![6dposebackground](https://github.com/user-attachments/assets/27a2862e-17e8-4497-baaa-f09bee25da65)
 
 <br>
 
@@ -31,7 +31,7 @@ The overall goal is to solidify the theoretical understanding and then gain hand
 
 ## Team Members
 
-| ![동준](https://github.com/user-attachments/assets/2dbbc136-5342-4a26-8e95-56c8e8076d27) | ![태욱](https://github.com/user-attachments/assets/1b4d1a10-2600-400a-a57c-bb057227cf57) | ![정우](https://github.com/user-attachments/assets/91efbc28-3219-49eb-bebe-c71f329a88cf) | ![윤서](https://github.com/user-attachments/assets/55d9c740-f067-4cc3-b1ab-43a9466029aa) | ![채리](https://github.com/user-attachments/assets/5e491b00-daaa-461b-8ba6-67e06e3caf39) |
+| ![동준](https://github.com/user-attachments/assets/00f71404-c890-4007-8c17-29e1f2e3b1ce) | ![태욱](https://github.com/user-attachments/assets/865fd4ef-7364-417f-b09e-87d188a52b8d) | ![정우](https://github.com/user-attachments/assets/62d73c51-da13-452d-b4ad-c5a2b4a5f628) | ![윤서](https://github.com/user-attachments/assets/5ca03a80-0b93-4ebe-8587-7b54ec705926) | ![채리](https://github.com/user-attachments/assets/33291039-5b89-4833-8ced-7e18a0c27e57) |
 |:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------------:|
 | **동준**                                                     | **태욱**                                                         | **정우**                                                         | **윤서**                                                         | **채리**                                                         |
 
