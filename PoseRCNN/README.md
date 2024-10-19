@@ -10,7 +10,9 @@ Rotation regression in PoseCNN cannot handle symmetric objects very well. Check 
 
 The code also supports pose refinement by matching segmented 3D point cloud of an object to its SDF.
 
-<p align="center"><img src="./data/pics/intro.png" width="640" height="320"/></p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0a2b1c36-06fa-4682-8cdb-fd941ec990c5" alt="intro" width="640" height="320">
+</div>
 
 ### License
 
