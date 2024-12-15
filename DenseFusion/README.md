@@ -1,7 +1,7 @@
 # DenseFusion
 
 <p align="center">
-	<img src ="assets/pullfig.png" width="1000" />
+	<img src ="https://github.com/j96w/DenseFusion/blob/master/assets/pullfig.png" width="1000" />
 </p>
 
 ## News
